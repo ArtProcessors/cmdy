@@ -3,7 +3,7 @@ package cmdy
 import (
 	"bytes"
 
-	"github.com/shabbyrobe/cmdy/arg"
+	"github.com/ArtProcessors/cmdy/arg"
 )
 
 type testCmd struct {

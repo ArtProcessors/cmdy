@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/shabbyrobe/cmdy/arg"
+	"github.com/ArtProcessors/cmdy/arg"
 )
 
 // FIXME: these are Unix codes, but other operating systems use

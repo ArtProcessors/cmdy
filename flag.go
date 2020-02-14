@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/shabbyrobe/cmdy/usage"
+	"github.com/ArtProcessors/cmdy/usage"
 )
 
 const flagInvocationSpill = 3

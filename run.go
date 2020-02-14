@@ -10,7 +10,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/shabbyrobe/cmdy/arg"
+	"github.com/ArtProcessors/cmdy/arg"
 )
 
 var (

@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/shabbyrobe/cmdy/arg"
-	"github.com/shabbyrobe/cmdy/usage"
+	"github.com/ArtProcessors/cmdy/arg"
+	"github.com/ArtProcessors/cmdy/usage"
 )
 
 type Builders map[string]Builder

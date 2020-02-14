@@ -1,7 +1,7 @@
 package cmdy
 
 import (
-	"github.com/shabbyrobe/cmdy/arg"
+	"github.com/ArtProcessors/cmdy/arg"
 )
 
 type Command interface {
@@ -20,7 +20,7 @@ type CommandArgs interface {
 	Command
 
 	// Args defines positional arguments for your command. If you want to accept
-	// all args, use github.com/shabbyrobe/cmdy/arg.All(). If no ArgSet is
+	// all args, use github.com/ArtProcessors/cmdy/arg.All(). If no ArgSet is
 	// returned, any arguments will cause an error.
 	Args() *arg.ArgSet
 }
